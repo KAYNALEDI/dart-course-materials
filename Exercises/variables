@@ -1,0 +1,11 @@
+void main(){
+String firstname = 'Kwazi';
+String lastname = 'Kunene';
+int age = 27;
+double height = 1.67;
+print (firstname);
+print (lastname);
+print (27);
+print (height);
+}
+
